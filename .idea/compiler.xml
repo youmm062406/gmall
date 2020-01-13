@@ -9,6 +9,7 @@
         <module name="gmall-admin-web" />
         <module name="gmall-api" />
         <module name="gmall-common" />
+        <module name="gmall-mbg" />
         <module name="gmall-oms" />
         <module name="gmall-pms" />
         <module name="gmall-sms" />
