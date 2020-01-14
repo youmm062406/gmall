@@ -18,7 +18,7 @@ public interface CartService {
      * @param accessToken
      * @return
      */
-    CartResponse addToCart(Long skuId, Integer num, String cartKey, String accessToken) throws ExecutionException, InterruptedException;
+    CartResponse addToCart(Long skuId,Integer num ,String cartKey, String accessToken) throws ExecutionException, InterruptedException;
 
     /**
      * 修改购物项数量

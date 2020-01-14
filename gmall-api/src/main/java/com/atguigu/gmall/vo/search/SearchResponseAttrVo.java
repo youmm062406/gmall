@@ -11,7 +11,7 @@ public class SearchResponseAttrVo implements Serializable {
 
     private Long productAttributeId;//1-品牌
     //当前属性值的所有值
-    private List<String> value = new ArrayList<String>();
+    private List<String> value = new ArrayList<>();
     //属性名称
     private String name;//网络制式，分类
 }
